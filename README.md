@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SkyCodepy
+- 👋 Hi, I’m @SkyCode
 - 👀 I’m interested by cycling and code
 - 🌱 I’m currently learning java language
 - 💞️ I’m looking to collaborate on ...
